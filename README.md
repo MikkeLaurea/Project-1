@@ -9,7 +9,10 @@ Was sick during the project so it gave me a bit of hard time but I managed to do
 My page is simple to-do list with very simple elements and nothing too fancy.
 
 Instructions you can use this in my Netlify site and you can just typing your tasks and mark them done and delete them.
+https://deft-macaron-24415f.netlify.app/
 
 Credits
 Mostly used google and followed this tutorial
 https://youtu.be/G0jO8kUrg-I?si=6lwG_WFc_-YCwJU1
+and for some parts I used chatgpt to make sure that I got things working
+because I had problems with localstorage at one point and some other features.
