@@ -1,7 +1,4 @@
 [[redirects]]
   from = "/*"
   to = "/index.html"
-  status = 301
-  force = false
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
+  status = 200
